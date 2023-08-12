@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chiamaka3784
+- 👋 Hi, I’m chiamaka
 - 👀 I’m interested in learning codes
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on python
